@@ -1,7 +1,7 @@
 # Notes App
 
 ### Description
-It is a Notes application. This application will help you to make Notes
+It is a Notes application. This application will help you to make Notes.
 
 ### Features
 
